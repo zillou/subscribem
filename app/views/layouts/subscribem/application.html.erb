@@ -8,6 +8,12 @@
 </head>
 <body>
 
+  <% flash.each do |name, message| %>
+    <%= content_tag :div, class: "flash #{name}" do %>
+      <%= message %>
+    <% end %>
+  <% end %>
+
 <%= yield %>
 
 </body>
