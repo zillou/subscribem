@@ -16,3 +16,7 @@ gemspec
 group :development, :test do
   gem 'pry-rails'
 end
+
+group :test do
+  gem 'launchy'
+end
