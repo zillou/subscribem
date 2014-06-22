@@ -1,3 +1,4 @@
 = Subscribem
+{<img src="https://travis-ci.org/zillou/subscribem.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/zillou/subscribem]
 
 This project rocks and uses MIT-LICENSE.
