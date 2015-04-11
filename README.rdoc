@@ -1,3 +1,8 @@
 = Subscribem
 
+{<img src="https://circleci.com/gh/zillou/subscribem/tree/master.svg?style=svg"
+alt="Circle CI" />}[https://circleci.com/gh/zillou/subscribem/tree/master]
+{<img src="https://coveralls.io/repos/zillou/subscribem/badge.svg" alt="Coverage
+Status" />}[https://coveralls.io/r/zillou/subscribem]
+
 This project rocks and uses MIT-LICENSE.
