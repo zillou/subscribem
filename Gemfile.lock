@@ -3,6 +3,7 @@ PATH
   specs:
     subscribem (0.0.1)
       bcrypt
+      dynamic_form (= 1.1.4)
       rails (~> 4.2.1)
       warden
 
@@ -63,6 +64,7 @@ GEM
     docile (1.1.5)
     domain_name (0.5.23)
       unf (>= 0.0.5, < 1.0.0)
+    dynamic_form (1.1.4)
     erubis (2.7.0)
     globalid (0.3.5)
       activesupport (>= 4.1.0)

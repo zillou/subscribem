@@ -18,6 +18,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "rails", "~> 4.2.1"
   s.add_dependency "bcrypt"
+  s.add_dependency "dynamic_form", "1.1.4"
   s.add_dependency "warden"
 
   s.add_development_dependency "rspec-rails"
